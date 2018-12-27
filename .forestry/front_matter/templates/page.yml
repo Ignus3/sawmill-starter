@@ -15,6 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
-- content/asdfasdfasdf.md
 - content/_index.md
 - data/dfdsfsdafs.yml
